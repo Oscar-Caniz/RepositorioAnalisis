@@ -1,0 +1,11 @@
+E:\programacion\lOGIN\lOGIN\bin\Debug\lOGIN.exe.config
+E:\programacion\lOGIN\lOGIN\bin\Debug\lOGIN.exe
+E:\programacion\lOGIN\lOGIN\bin\Debug\lOGIN.pdb
+E:\programacion\lOGIN\lOGIN\obj\Debug\lOGIN.Form1.resources
+E:\programacion\lOGIN\lOGIN\obj\Debug\lOGIN.Properties.Resources.resources
+E:\programacion\lOGIN\lOGIN\obj\Debug\lOGIN.csproj.GenerateResource.Cache
+E:\programacion\lOGIN\lOGIN\obj\Debug\lOGIN.exe
+E:\programacion\lOGIN\lOGIN\obj\Debug\lOGIN.pdb
+E:\programacion\lOGIN\lOGIN\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\programacion\lOGIN\lOGIN\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\programacion\lOGIN\lOGIN\obj\Debug\lOGIN.csprojResolveAssemblyReference.cache
