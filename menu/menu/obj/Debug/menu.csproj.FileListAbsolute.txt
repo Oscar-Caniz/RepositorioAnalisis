@@ -1,0 +1,11 @@
+E:\programacion\menu\menu\bin\Debug\menu.exe.config
+E:\programacion\menu\menu\bin\Debug\menu.exe
+E:\programacion\menu\menu\bin\Debug\menu.pdb
+E:\programacion\menu\menu\obj\Debug\menu.csprojResolveAssemblyReference.cache
+E:\programacion\menu\menu\obj\Debug\menu.Form1.resources
+E:\programacion\menu\menu\obj\Debug\menu.Properties.Resources.resources
+E:\programacion\menu\menu\obj\Debug\menu.csproj.GenerateResource.Cache
+E:\programacion\menu\menu\obj\Debug\menu.exe
+E:\programacion\menu\menu\obj\Debug\menu.pdb
+E:\programacion\menu\menu\obj\Debug\menu.Productos.resources
+E:\programacion\menu\menu\obj\Debug\menu.Proyecto.resources
